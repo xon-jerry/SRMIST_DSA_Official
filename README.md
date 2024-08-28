@@ -39,5 +39,5 @@ Welcome to the official DSA repository of SRMIST! This repository is designed to
 ### Cloning the Repository
 To get a local copy of this repository, use the following command:
 ```bash
-
+https://github.com/jerry-xon/SRMIST_DSA_Official.git
 
