@@ -54,8 +54,8 @@ Create a new branch (git checkout -b feature-branch-name).
 Commit your changes (git commit -m 'Add some feature').
 Push to the branch (git push origin feature-branch-name).
 Open a pull request.
-Please refer to the CONTRIBUTING.md file for detailed guidelines.
 ```
+Please refer to the [CONTRIBUTING.md](https://github.com/jerry-xon/SRMIST_DSA_Official/blob/main/CONTRIBUTING.md) file for detailed guidelines.
 
 ## 📜 License
 
