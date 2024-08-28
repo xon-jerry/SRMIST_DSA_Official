@@ -63,5 +63,5 @@ git push origin feature-branch-name
 - If you need help or have any questions, feel free to open an issue or contact the maintainers.
 - We encourage collaboration and are happy to assist new contributors in getting started.
 
-
+Thank you for your contribution! Together, we can build a valuable resource for the entire SRMIST community.
 
