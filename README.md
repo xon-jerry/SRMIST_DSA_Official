@@ -43,24 +43,29 @@ https://github.com/jerry-xon/SRMIST_DSA_Official.git
 ```
 
 
-🤝 Contributions
+## 🤝 Contributions
 
 We welcome contributions from everyone at SRMIST. Whether it's correcting a typo, adding new content, or suggesting improvements, your input is valuable to us.
 
-How to Contribute
-```Fork the repository.
+#How to Contribute
+```
+Fork the repository.
 Create a new branch (git checkout -b feature-branch-name).
 Commit your changes (git commit -m 'Add some feature').
 Push to the branch (git push origin feature-branch-name).
 Open a pull request.
-Please refer to the CONTRIBUTING.md file for detailed guidelines.```
+Please refer to the CONTRIBUTING.md file for detailed guidelines.
+```
 
-📜 License
+## 📜 License
 
 This repository is licensed under the MIT License. See the LICENSE file for more information.
 
-📧 Contact
+## 📧 Contact
 
 For any questions or suggestions, please contact JAYESH PURSWANI at jppurswani2004@gmail.com.
+
+
+
 
 
