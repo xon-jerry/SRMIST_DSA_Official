@@ -47,7 +47,7 @@ https://github.com/jerry-xon/SRMIST_DSA_Official.git
 
 We welcome contributions from everyone at SRMIST. Whether it's correcting a typo, adding new content, or suggesting improvements, your input is valuable to us.
 
-#How to Contribute
+## How to Contribute
 ```
 Fork the repository.
 Create a new branch (git checkout -b feature-branch-name).
